@@ -20,6 +20,7 @@ Gear Indicator + TPMS Monitor
 ](images/6.png)
 
 
+
 ## 🎬 Gear Indicator + TPMS Monitor
 
 ### Video 1
@@ -30,7 +31,8 @@ Gear Indicator + TPMS Monitor
 
 [![Watch Video 2](https://img.youtube.com/vi/YCmBvR1Jriw/0.jpg)](https://youtube.com/shorts/YCmBvR1Jriw)
 
-### Video 
+### Video 3
 
-[![Watch Video 3]([https://img.youtube.com/vi/YCmBvR1Jriw/0.jpg)](https://youtube.com/shorts/YCmBvR1Jriw](https://youtube.com/shorts/YCmBvR1Jriw?si=ODXTIAyUfb2uqFKz))
+[![Watch Video 3](https://img.youtube.com/vi/YCmBvR1Jriw/0.jpg)](https://youtube.com/shorts/YCmBvR1Jriw?si=ODXTIAyUfb2uqFKz)
+
 
