@@ -7,17 +7,17 @@ Gear Indicator + TPMS Monitor
 ![Gear-Indicator-TPMS-Monitor
 ](images/0.jpg)
 ![Gear-Indicator-TPMS-Monitor
-](images/1.jpg)
+](images/1.png)
 ![Gear-Indicator-TPMS-Monitor
-](images/2.jpg)
+](images/2.png)
 ![Gear-Indicator-TPMS-Monitor
-](images/3.jpg)
+](images/3.png)
 ![Gear-Indicator-TPMS-Monitor
-](images/4.jpg)
+](images/4.png)
 ![Gear-Indicator-TPMS-Monitor
-](images/5.jpg)
+](images/5.png)
 ![Gear-Indicator-TPMS-Monitor
-](images/6.jpg)
+](images/6.png)
 
 
 ## 🎬 Gear Indicator + TPMS Monitor
